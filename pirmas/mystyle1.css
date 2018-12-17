@@ -1,0 +1,51 @@
+h1 {color: snow; background-color:#ff00ff;text-align: center;}
+	body {background-color: lightblue;}
+	p { 
+		font-family: Arial;
+		font-size: 14px;
+		  text-align: right;
+	}
+	.ant { color: yellow;
+
+	font-family: Times new roman;
+	font-size: 32px;}
+	#aut{
+		 text-align: right;
+		 font-size: 15px;
+		 color: black;
+	} 
+	.lh{
+		font-size:22px;
+		
+		color:navy; 
+	} 
+
+.t1{
+	border: 1px solid black;
+	text-align: center;
+	font-size: 22px;
+}
+.t2 {
+	border:0px
+}
+table {
+	margin:auto;
+	width: 60%;
+	text-align: left;
+}
+.eil{
+	height :120px;
+	 background-color:#ff7400
+;
+}
+th{
+	height :60px;
+}
+td{
+	height :60px;
+}
+.link {
+	text-align: center;
+		 font-size: 27px;
+		 color: Navy;
+}
