@@ -1,0 +1,70 @@
+	
+		body {
+			 background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/jVhILry/dark-blue-background-4k_ekeftjj9ml__F0000.png);
+		}
+		
+		
+		
+	.pagr2
+	{
+		height:400px;
+		width:400px;
+		
+		border: 7px solid lawngreen;
+		background-color: lightgray;
+	}
+	.meniu1
+	{
+		margin-top:2%;
+		height:50px;
+		background-color: gray;
+	}
+	.meniu2
+	{
+		text-align:right;
+		margin:auto;
+		height:44px;
+		width:50px;
+		float:right;
+		font-family: Times new roman;
+		font-size: 32px;
+		padding-right:3% ;
+		padding-left:2% ;
+		border:solid;
+		background-color: gray;
+	}
+	.meniu3
+	{
+		text-align:right;
+		margin:auto;
+		height:44px;
+		width:50px;
+		float:right;
+		font-family: Times new roman;
+		font-size: 32px;
+		padding-right:4.5% ;
+		padding-left:1% ;
+		border:solid;
+		border-right:none;
+		background-color: gray;
+	}
+.meniu4
+	{
+		text-align:right;
+		margin:auto;
+		height:44px;
+		width:50px;
+		float:right;
+		font-family: Times new roman;
+		font-size: 32px;
+		padding-right:2.5% ;
+		padding-left:1% ;
+		border:solid;
+		border-right:none;
+		background-color: gray;
+	}
+	
+	table {
+  border-spacing: 40px;
+
+}
